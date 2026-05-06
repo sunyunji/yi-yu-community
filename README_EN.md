@@ -1,12 +1,12 @@
-# Yi-Yu Community · Global Open Platform for Eastern System Science
+# Yi-Yu Community · Global Platform for East-West Civilizational Paradigm Fusion
 
-Yi-Yu Community is an international research platform dedicated to bridging Eastern wisdom traditions with modern mathematics, physics, and AI.
+Yi-Yu Community is an international research platform dedicated to pioneering an **East-West Civilizational Paradigm Fusion**.
 
-> Uniting "Yi-exploring-Yu, Yu-verifying-Yi" through the Yi-Yu perspective, we build a convergence framework between Eastern numerology and Western science for understanding the cosmos.
+> Uniting "Yi-exploring-Yu, Yu-verifying-Yi" through the Yi-Yu perspective, we merge Eastern wisdom traditions with modern mathematics, physics, and AI—creating a new framework for human civilization.
 
 ## Vision
 
-Create an open collaborative community that translates traditional cultural symbols into computable, verifiable mathematical models—and drives them toward real-world applications. We envision a dialogue between "Eastern numerology" and "modern science" at the systemic level of heaven, earth, humanity, and universe.
+Create an open collaborative community that translates Eastern ancient wisdom into computable, verifiable mathematical models—and drives them toward real-world applications. We envision a complete fusion between "Eastern wisdom systems" and "modern science" at the systemic level of heaven, earth, humanity, and universe. This is the foundation of a new **East-West Civilizational Paradigm** that will reshape humanity's understanding and capability.
 
 ## Core Principles
 
